@@ -1,0 +1,23 @@
+{
+  "name": "mongodb-object-id-driver-v3",
+  "version": "1.0.0",
+  "description": "MongoDB benchmark parsing ObjectId in Node.js driver v3.6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baryshok/mongodb-object-id-driver-v3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baryshok/mongodb-object-id-driver-v3/issues"
+  },
+  "homepage": "https://github.com/baryshok/mongodb-object-id-driver-v3#readme",
+  "dependencies": {
+    "mongodb": "^3.6.10",
+    "v8-profiler-next": "^1.5.1"
+  }
+}
